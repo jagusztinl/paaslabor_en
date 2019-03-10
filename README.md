@@ -8,16 +8,17 @@
 ## Solution
 The rating is based on the following Google Forms document, please fill in and send it with your  email address.
 The report also contains test questions and solutions to be copied from the exercises. It's worth continously filling on the go and storing it in a separate document so you don't lose it and you can send it later!
- 
+
 ** Submit the solution to the end of the week of the lab (Sunday 23:59) **
----
-** Labor Evaluation: ** [here] (https://goo.gl/forms/xBh9tuN6bsIne56Z2)
 
 ---
+** Labor Evaluation: ** [here] (https://goo.gl/forms/xBh9tuN6bsIne56Z2)
+---
+
 # Objective, theme
 The aim of the lab is to review the following topics:
 - ** Basic Operations with Container Running Applications **
-  -Create a Docker Container based on dockerfile or Docker Hub image
+-Create a Docker Container based on dockerfile or Docker Hub image
   -Using Docker Registry
   -examining the connection between the host and the container (process IDs, ports, namespaces),
   -run commands in the container
@@ -27,7 +28,6 @@ The aim of the lab is to review the following topics:
   -deployment processes,
   -Overview of OpenShift architecture
   -Overview of OpenShift concepts (Service, Pod, Route).
-
 ---
 
 # Exercises
