@@ -15,19 +15,20 @@ The report also contains test questions and solutions to be copied from the exer
 ** Labor Evaluation: ** [here] (https://goo.gl/forms/xBh9tuN6bsIne56Z2)
 ---
 
+---
 # Objective, theme
 The aim of the lab is to review the following topics:
-- ** Basic Operations with Container Running Applications **
--Create a Docker Container based on dockerfile or Docker Hub image
-  -Using Docker Registry
-  -examining the connection between the host and the container (process IDs, ports, namespaces),
-  -run commands in the container
-  -running, accessing, and modifying a web server.
+- ** Basic Operations with Applications Running in Containers **
+  - Create a Docker Container based on dockerfile or Docker Hub image
+  - Using Docker Registry
+  - examining the connection between the host and the container (process IDs, ports, namespaces),
+  - run commands in the container
+  - running, accessing, and modifying a web server.
 - ** OpenShift **
-  -container orchestration,
-  -deployment processes,
-  -Overview of OpenShift architecture
-  -Overview of OpenShift concepts (Service, Pod, Route).
+  - container orchestration,
+  - deployment processes,
+  - Overview of OpenShift architecture
+  - Overview of OpenShift concepts (Service, Pod, Route).
 ---
 
 # Exercises
