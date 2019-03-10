@@ -16,32 +16,33 @@ The report also contains test questions and exercises to be copied from the mate
 ---
 # Objective, theme
 The aim of the lab is to review the following topics:
-- ** Basic Operations with Container Running Applications **
-  - Create a Docker Container based on dockerfile or Docker Hub image
-  - Using Docker Registry
-  - examining the connection between the host and the container (process IDs, ports, namespaces),
-  - run commands in the container
-  - running, accessing, and modifying a web server.
+- ** Basic Operations with Applications Running in Containers **
+  - Create a Docker Container based on dockerfile or Docker Hub image
+  - Using Docker Registry
+  - examining the connection between the host and the container (process IDs, ports, namespaces),
+  - run commands in the container
+  - running, accessing, and modifying a web server.
 - ** OpenShift **
-  - container orchestration,
-  - deployment processes,
-  - Overview of OpenShift architecture
-  - Overview of OpenShift concepts (Service, Pod, Route).
-
+  - container orchestration,
+  - deployment processes,
+  - Overview of OpenShift architecture
+  - Overview of OpenShift concepts (Service, Pod, Route).
+---
+If you would like to know Alerant's activities, visit our website: https://www.alerant.hu/
 ---
 
 # Exercises
 ## Practice 1. - Docker
-[Practice is available here] (docs / Practice1.md)
+[Practice is available here](docs/Practice1.md)
 ## Practice 2. - OpenShift basic operations, basic concepts in practice
-[Practice is available here] (docs / Practice2.md)
+[Practice is available here](docs/Practice2.md)
 ## Practice 3. - OpenShift Application Installation - Presentation
-[Practice is available here] (docs / Practice3.md)
+[Practice is available here](docs/Practice3.md)
 ## Practice 4. - OpenShift S2I deployment
-[Practice is available here] (docs / Practice4.md)
+[Practice is available here](docs/Practice4.md)
 
 # Optional exercises - optional order
 ## Practice 5. - OpenShift Scaling Commands
-[Practice available here] (docs / Practice5.md)
+[Practice available here](docs/Practice5.md)
 ## Practice 6. - Network
-[Practice is available here] (docs / Practice6.md)
+[Practice is available here](docs/Practice6.md)
